@@ -2,22 +2,22 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/kreuzwerker/docker" {
-  version     = "2.25.0"
-  constraints = "~> 2.25.0"
+  version     = "3.0.1"
+  constraints = "~> 3.0.0"
   hashes = [
-    "h1:0GQGmz25xaSRbFyAGXHhU6nmhR4lYN5NYtc6S+wv7pw=",
-    "h1:7SILKY4Mjkbs/AHre2QQEaq5qUiOqOzmJwQABrUul4o=",
-    "h1:BOlR+4L4oi6SYOFY3YN4o8F7wr2FlOEm3r+GZKIklVs=",
-    "h1:BaUzE7+oYgBrRL8wlxAssnQQs4vfwPxSqHJrFee1MeM=",
-    "h1:MO2d4iiO3G5ytlIN/5178ppdPNZbzVlsesImsbfFfY0=",
-    "h1:QcTQB7N9kL3dLBZ1dHG8XAx24POm5qLDPII03SjLqtc=",
-    "h1:VIvOogmT5w73OgdiehqRw1uWgIXVWFzhdzsFAWybqlw=",
-    "h1:X2c1k/BRVW5PPTw/RU1QRhkw6KEgofWbnbHJzJ8+0R8=",
-    "h1:YmduPp6FC4/KQQUEismO55N7Ejkj28NIPcgJFPhLv3A=",
-    "h1:eCfapGxgta0IOTsnStDIi1wgPVdf1oV4rtbQ7MD6ijQ=",
-    "h1:makoRq7yJwQH2cPupwp1HI6yaUnLKgnlO/M52FWlWZs=",
-    "h1:nB2atWOMNrq3tfVH216oFFCQ/TNjAXXno6ZyZhlGdQs=",
-    "h1:rfeFPPqnkT+LHpUrwqV4wpsb6YuDxuRD5v75OoKsP+M=",
-    "h1:wpw4dGbfzt/zp/RWMf/Axm2EkLPVhM5JN6IkqMlKpnI=",
+    "h1:0kd7puzZR47pUMK/xynOXbS0ibkURo2U3Q+cvYNKTaE=",
+    "h1:8mSctgsUqQYWixsTr64s6f+bQTWtXmFxWJ0xIjAFIjA=",
+    "h1:BE30XLC+9B6jai4x2l8/hwnxJ9zUJd02hDHq2GXU2KA=",
+    "h1:DJSFW/AN4fCLJ9pfNoH4HBF85zpAjFqJ75hZfyzqr2c=",
+    "h1:K03STA8Zls3k0DUtXmKDX7qebrlGsGfn51EMkjZnlN4=",
+    "h1:Kh13n8NdjmmQkCxLm0PDEEsusJVCptLILcr2JCVzLFI=",
+    "h1:OcfOr8JOz9gWRf+v5slbZ6pAuj0SE9VkAxUhSGTJ3a0=",
+    "h1:X2wZHQoG54NmtojeFcX0PSJPelaIejQRqyyI2h+LjWg=",
+    "h1:b5YL/v8DvEDlMf/odQvUjbXBZ7uUS1hBx5M0a0L169g=",
+    "h1:d7z3UOBC+LaaW2eSHNTBcXM91b/YmmPWz1+SwjltYAk=",
+    "h1:klHEnyIJInoaRJsWkNOVXYKg87/oUmV/uT6SLa38OmQ=",
+    "h1:pOeQE3Iltx+QSKUejTo19ytayasVy683RAaYjjy47HI=",
+    "h1:yYw3TjGp+U5x3mK5q462DmPLJjvVG6DFJNg1wGM8+q0=",
+    "h1:zdKNQX3dhcV+sPOG4kwK9ll6nthKPPIUTIMF3Xav3d8=",
   ]
 }
