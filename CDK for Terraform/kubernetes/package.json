@@ -25,7 +25,7 @@
   "devDependencies": {
     "@types/jest": "^29.1.1",
     "@types/node": "^18.8.2",
-    "cdktf-cli": "^0.15.0",
+    "cdktf-cli": "^0.16.0",
     "jest": "^29.1.2",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.0"
